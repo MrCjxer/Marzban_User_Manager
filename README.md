@@ -18,7 +18,7 @@ You Can Enable It By Adding DOCS=True To Your env File
 ## Linux
 
 ```bash
-git clone https://github.com/M03ED/Marzban_User_Manager
+git clone https://github.com/MrCjxer/Marzban_User_Manager
 cd Marzban_User_Manager
 wget -qO- https://bootstrap.pypa.io/get-pip.py | python3 -
 python3 -m pip install -r requirements.txt
